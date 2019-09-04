@@ -1,2 +1,13 @@
 /*Imported google fonts*/
 @import url('https://fonts.googleapis.com/css?family=Lato|Manjari|Noto+Sans|Roboto|Roboto+Slab&display=swap');
+
+/*Declaring Global Variables*/
+:root {
+--light-gray: #2b3032a1;
+--primary-color: #45ccb8;
+--border: #2b303218;
+--text-color: #ff686b;
+--roboto: "Roboto", sans-serif;
+--manjari: "Manjari", cursive;
+--lato: "Lato", cursive;
+}
