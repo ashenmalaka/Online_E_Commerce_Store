@@ -52,3 +52,22 @@ header .site-title {
     color: white;
     text-decoration: none;
 }
+
+/*Navigational Bar Section*/
+.navbar-nav {
+    padding: 0.8em 0em;
+}
+
+.navbar-nav .nav-link {
+    color: var(--light-gray)!important;
+    font-size: 0.9em;
+}
+
+.navbar-nav .nav-item .nav-link {
+    padding: 0em 1.3em;
+}
+
+.navbar-nav .basket-icon {
+    margin-right: 6.5rem !important;
+}
+
