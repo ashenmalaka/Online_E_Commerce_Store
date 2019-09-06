@@ -71,4 +71,24 @@ header .site-title {
     margin-right: 6.5rem !important;
 }
 
+.site-slider {
+    position: relative;
+}
 
+.position-top {
+    position: absolute;
+    top: 50%;
+}
+
+.site-slider .slider-btn .prev,
+.site-slider .slider-btn .next {
+    background-color: var(--primary-color);
+    padding: 1rem 1.5rem;
+    border-radius: 10rem;
+    color: white;
+    margin: 0rem 1rem;
+}
+
+.right-0 {
+    right: 0;
+}
