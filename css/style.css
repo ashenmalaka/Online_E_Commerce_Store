@@ -112,4 +112,22 @@ header .site-title {
     right: 50%;
 }
 
+.slick-dots li {
+    margin: 0 0.6rem;
+}
 
+.slick-dots button {
+    display: block;
+    width: 0.5rem;
+    height: 0.5rem;
+    padding: 0;
+    border: none;
+    background-color: black;
+    text-indent: -99999px;
+    border-radius: 100%;
+}
+
+.slick-dots li.slick-active button {
+    transform: scale(2.5);
+    box-shadow: 0px,3px,5px,1px rgba(0, 0, 0, 0.205);
+}
