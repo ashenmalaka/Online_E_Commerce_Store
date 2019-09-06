@@ -99,3 +99,17 @@ header .site-title {
 .right-0 {
     right: 0;
 }
+
+/*Slick Dots*/
+.slick-dots {
+    display: flex;
+    justify-content: center;
+    margin: 0;
+    padding: 1rem 0;
+    list-style-type: none;
+    position: absolute;
+    bottom: 0;
+    right: 50%;
+}
+
+
