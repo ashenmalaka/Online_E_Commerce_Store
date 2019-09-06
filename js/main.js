@@ -4,5 +4,7 @@ $(".slider-one")
 .slick({
     autoplay: true,
     autoplaySpeed: 3000,
-    dots: true
+    dots: true,
+    prevArrow: ".site-slider .slider-btn .pre",
+    nextArrow: ".site-slider .slider-btn .next"
 });
