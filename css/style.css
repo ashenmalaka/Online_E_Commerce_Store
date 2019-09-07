@@ -156,3 +156,7 @@ header .site-title {
     background-color: white;
     color: var(--light-gray);
 }
+
+.slider-two .slick-track .product:hover span {
+    background-color: var(--primary-color);
+}
