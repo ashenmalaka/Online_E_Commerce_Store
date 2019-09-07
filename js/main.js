@@ -15,6 +15,6 @@ $(".slider-two")
 .slick({
     prevArrow: ".site-slider.two .prev",
     nextArrow: ".site-slider.two .next",
-    slidesToshow: 5,
+    slidesToShow: 5,
     slidesToScroll: 1
 });
