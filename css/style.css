@@ -148,3 +148,11 @@ header .site-title {
     width: 90%;
     margin: auto;
 }
+
+.site-btn.btn-span {
+    padding: 0.8rem 1.9rem;
+    border-radius: 4rem;
+    border: 1px solid var(--border);
+    background-color: white;
+    color: var(--light-gray);
+}
