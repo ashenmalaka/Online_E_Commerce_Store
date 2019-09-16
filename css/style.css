@@ -157,6 +157,6 @@ header .site-title {
     color: var(--light-gray);
 }
 
-.slider-two .slick-track .product:hover span {
+.slider-two .slick-track .product:hover span{
     background-color: var(--primary-color);
 }
